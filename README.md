@@ -1,4 +1,4 @@
-![Travis (.org)](https://img.shields.io/travis/:user/:repo.svg)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 
 
 
