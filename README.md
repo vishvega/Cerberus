@@ -1,5 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](#)
 
+![dev-asshole](https://img.shields.io/badge/developer-asshole-%230b50a7.svg)
+
+
 
 
 # Cerberus Responsive Email Patterns
