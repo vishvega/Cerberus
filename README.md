@@ -1,3 +1,7 @@
+5871
+
+
+
 # Cerberus Responsive Email Patterns
 
 <a href="http://tedgoas.github.io/Cerberus/"><img src="http://tedgoas.github.io/Cerberus/assets/logo.png" alt="Cerberus logo" width="75" height="64" align="left" hspace="10" vspace="6"></a>
